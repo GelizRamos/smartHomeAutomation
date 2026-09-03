@@ -1,7 +1,7 @@
-public class turnOnCommand implements Command {
+public class TurnOnCommand implements Command {
     private Device device;
 
-    public turnOnCommand(Device device) {
+    public TurnOnCommand(Device device) {
         this.device = device;
     }
 

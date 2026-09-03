@@ -1,4 +1,4 @@
-public class centralHub {
+public class CentralHub {
     private Command command;
 
     public void setCommand(Command command) {
